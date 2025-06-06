@@ -1,4 +1,4 @@
-# ping-test.yml, I use this as a test playbook when working at CHIC in 2025 using AAP
+ # ping-test.yml, I use this as a test playbook when working at CHIC in 2025 using AAP
 - name: Test de connectivité
   hosts: all
   gather_facts: no
